@@ -1,0 +1,37 @@
+# =========================
+# OS-specific (Windows)
+# =========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+*.conda
+*.virtualenv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================
+#
